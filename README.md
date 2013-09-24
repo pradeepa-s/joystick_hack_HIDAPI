@@ -7,3 +7,4 @@ The project was done using MSVC2005. Demonstrates the usage of HIDAPI to decode 
 
 Original post can be found at www.unboxNbeyond.com
 
+Developer: Pradeepa Senanayake
